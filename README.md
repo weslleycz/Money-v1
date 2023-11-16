@@ -1,6 +1,8 @@
 # Gerenciador de Entradas e Saídas
 
 Este é um projeto de gerenciador de entradas e saídas construído com Electron, React, SQLite e SCSS.
+![Captura de tela_2023-11-16_00-38-42](https://github.com/weslleycz/Money-v1/assets/44758448/11b24a80-2969-4038-b5d3-f1d8063c3bc3)
+
 
 ## Requisitos do Sistema
 
