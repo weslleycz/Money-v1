@@ -102,7 +102,7 @@
     "@mui/material": "^5.14.10",
     "@rbnd/react-dark-mode": "^2.0.1",
     "array-paginator": "^2.0.0",
-    "axios": "^1.5.1",
+    "axios": "^1.6.0",
     "bcryptjs-react": "^2.4.6",
     "chart.js": "^4.4.0",
     "electron-debug": "^3.2.0",
